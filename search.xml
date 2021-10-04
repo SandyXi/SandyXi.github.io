@@ -8,9 +8,21 @@
       <link href="/2021/09/27/hello-world/"/>
       <url>/2021/09/27/hello-world/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1><span id="写在前面">写在前面</span></h1><h2><span id="话说为什么要建这个站呢">话说为什么要建这个站呢</span></h2><div>主要是因为在准备保研夏令营期间，在翻阅经验贴的时候，看到了某学长做的个人博客，他把自己的随笔、日常生活、刷LeetCode的一些coding记录全部放在了博客上面，还做了很好的分类。这对年幼的我的来说吸引力是非常大的（不是），我也希望能拥有一个自己的小空间，把所有想说的话，想记录下来的东西全部写在博客上面，也可以供他人观看，想着想着就决定保研结束过后付诸实践了（笑)。</div><div>其实对于做IT的人来说，要搭建这样一个博客并不难，有一些基础的知识就可以搭建，照着网上的教程加上万能cmd的辅助，很快就可以搭建出来，但是我把更多的精力放在了UI上面，可能也是对自己的博客有一个要求吧，希望能把美化做得好一点。这也导致我很早就把博客搭建好了，也部署在了gitee上，但是过了好几天才写下现在的第一篇博客（挠头）<span class="github-emoji" style="display:inline;vertical-align:middle"><span>😅</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f605.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>。</div><h2><span id="其次非常欢迎你的到来">其次，非常欢迎你的到来！！！</span></h2><div>非常感谢你抽出一点时间来看这些我写的狗屁无聊东西，但同时也希望你在本站玩得愉快！！<span class="github-emoji" style="display:inline;vertical-align:middle"><span>😆</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><span class="github-emoji" style="display:inline;vertical-align:middle"><span>😆</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><span class="github-emoji" style="display:inline;vertical-align:middle"><span>😆</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></div><h2><span id="tips">Tips</span></h2><ul><li>小站才刚开设不久，可能会遇上各种使用体验不佳或者有bug的情况，欢迎随时发邮件联系我！！（邮件在主页上可以找到，感激不尽）</li><li>评论功能还未开放，后续看情况可能会加上吧，还是希望有大家的评论，大家到时候可以在评论区多多留言噢~</li></ul><h1><span id="bye~">Bye~</span></h1>]]></content>
       
       
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随便写写 </tag>
+            
+        </tags>
       
     </entry>
     
